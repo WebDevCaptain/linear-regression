@@ -11,5 +11,6 @@ dependencies:
   - pandas
   - pytorch
   - scikit-learn
+  - mlxtend
 prefix: 
   /Volumes/NAS/Projects/Machine-Learning/linear-regression/king-county-house-price-prediction/env
